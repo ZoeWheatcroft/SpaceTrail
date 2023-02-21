@@ -289,8 +289,6 @@ public class ShipControls : MonoBehaviour
         //generate random number to see if an event will occur
     }
 
-    private void 
-
     // Update is called once per frame
     void Update()
     {
